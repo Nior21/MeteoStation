@@ -1,5 +1,5 @@
 # MeteoStation
-Данный проект посвящен **управлению температурой и влажностью** в доме с помощью [WiFi Slot](amperka.ru/product/wifi-slot?utm_source=man&utm_campaign=wifi-slot&utm_medium=wiki) модуля, программируемого на JavaScript (или C++) через среду разработки Espruino IDE.
+Данный проект посвящен **управлению температурой и влажностью** в доме с помощью [WiFi Slot](amperka.ru/product/wifi-slot?utm_source=man&utm_campaign=wifi-slot&utm_medium=wiki) модуля, программируемого на JavaScript (или C++) через среду разработки [Espruino IDE](https://www.espruino.com/ide/).
 
 В проекте используется:
 - 1 x [WiFi Slot](amperka.ru/product/wifi-slot?utm_source=man&utm_campaign=wifi-slot&utm_medium=wiki)
